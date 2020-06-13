@@ -1,0 +1,66 @@
+/* Group 23 */
+nav {
+    position: absolute;
+width: 1920px;
+height: 191px;
+float: left;
+left:0px;
+top: 0px;
+}
+
+/* Group 17 */
+
+.box {
+background: #002C5C;
+width: 222px;
+height: 191px;
+line-height: 191px;
+text-align: center;
+position: absolute;
+left: 12.5%;
+right: 75.94%;
+top: 0%;
+bottom: 0%;
+
+}
+    
+/* Vector 3 */
+
+nav li ul{ 
+    display: inline;  
+position: absolute;
+left: 49.27%;
+right: 15.16%;
+top: 35.6%;
+bottom: 64.4%;
+
+border: 1px solid #000000;
+}
+
+
+.header image {
+position: absolute;
+width: 1920px;
+height: 674px;
+left: 0px;
+top: 115px;
+background: #1E1E1C;
+}
+
+.hi {
+    position: absolute;
+width: 1144px;
+height: 111px;
+left: 242px;
+top: 877px;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 65px;
+
+color: #000000;
+
+}
+
